@@ -49,7 +49,7 @@
 
 
 ### Probability and Statistics for Datascience :
-- [click here to know about Probability and Statistics Syllabus for Datascience]()
+- [click here to know about Probability and Statistics Syllabus for Datascience](https://github.com/hike-training-institute/statistics-and-probability.git)
 
 ### Pandas, Numpy, Scipy, Scikit-Learn, Matplotlib :
 - Numpy - ndarry introduction, reshape, matrix calculations, linear algebra functions
