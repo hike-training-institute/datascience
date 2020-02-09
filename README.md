@@ -20,7 +20,6 @@
 - What is Aritificial Intelligence ?
 
 ### Environment Setup : 
--- This course needs atleast Python basic experience
 - Why Python for Datascience ?
 - Installing Jupyter Notebook 
 - What is Anaconda and conda setup 
@@ -70,10 +69,10 @@
 - Sample Data Mining project
 
 ### Machine Learning :
-[Click here to know about Machine Learning Syllabus]()
+[Click here to know about Machine Learning Syllabus](https://github.com/hike-training-institute/machine-learning)
 
-# Final Projects :
-- Real Time Stock Market Data Analysis
-- AirQuality Index Data Analysis and Prediction
+# Final Projects : 
+- Real Time Stock Market Data Analysis 
+- AirQuality Index Data Analysis and Prediction 
 - Housing Price Prediction 
 - Breast Cancer Prediction 
